@@ -1,1 +1,2 @@
-# AICTEWEEK2
+# Week 2 – Garbage Classification with EfficientNetV2B2
+This project builds on a previous version by using a real-world garbage classification dataset from Kaggle with six categories: cardboard, glass, metal, paper, plastic, and trash. It includes class distribution analysis and fine-tunes the last 20 layers of the EfficientNetV2B2 model. The model is trained for 5 epochs, and training metrics such as accuracy and loss are visualized. A sample prediction is made on a real garbage image to demonstrate the model’s capability, though no formal testing or evaluation was performed.
